@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "playboyfeluda",
+  "private_key_id": "ded580634cd20b78d3176e5243e98c9fb4826bcb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpsRzmE2oTT+gU\nlFPUW9lMZh+riVGdFNQEW96nlLzv22uIfsk0ubTi5fsZ3PiRWHEyfE685P8htdl+\ntMXEAlEHxKNbYlKh3CGOXTXusfEhVvgydLctmH2Lg1Esl3P4/cJcMJDbPGozuF4U\np45cXXAp+vCfZA4/48vtMCwpocjHJ9c6hd8TVZalVyLaBdVMiq+o0FJq541CIMW2\nBRvfDomy7fOvReT1So5enGxWwg7yjl5motyOWJi5KV3oVbSmgqqgA1hmEPp6eqd6\nFtmIEdj12f3fQm3qOSq7rKWgtwqe9szQd+GYL16t1sa8ZB2shLOjWSDUm6W8wP7M\ndMeUIKT3AgMBAAECggEAERAdX+U3VQ1RZj3wTayegKK3mZhErRdUuwlph/XnF7ep\n3IUECZqs96DlhTK/tCkaLB6sccQMpuL2waF5toFEIQY9YTzxc0pglDBVHEZs00uH\ngsjyiQc91MkeolwKm+RiDnDTWtad8IR722k34/bvQM7G8Um7yp7GMzLVvqfGl606\nxkhYyjsyGuS7ZF9hc9ZGbEyhztoLPpOo6cVtqd9dqxils/k/Gbta2Rnxd5a6qh7n\nZkQCM1XhLKJPtvr1dghhPwlhr2j/w8zbmwpXeGfgRbmF3F8D2RpsRMd9U/CMJ6zh\nQk/Qvp0dRN+OLX/DKEsu9JvYasECmKLS+Wp8W3sysQKBgQD/0VAe0G303DsAOIM6\ndu5Yz7SZVh6mPVdsjjyKhPnCxSXc20WfJiv+187BqYTQ6nEekvC/G4+cxRyuLrY3\n3t26AC3Nts4XtSMlRoshd6eiJnhMWsEgixxTsd8INBcNK/eWkxWYcrogvkVTw/A0\nAylSeoH+G4OACrVpfyVXzi8H0QKBgQDp28MOD+K8l7Hc3PEGyHbwThSFi4YoXqkU\nh3uz3oGwcY8ET6Xo1F1YkWX7jlngliP/fFimNU1LdeQ9mMrTEJJMbrl1/eT6NsnA\nSHdxQ2O2oX2fwv+Hjc1v34aCbdpqF9MNX9eNQP/fRUYDZWo4mtBXTNZ5dPVxjHwK\nWB6BonZaRwKBgQCimbCLZX/+e10lLsZ6is3EtYDdVdf1YlgHMAFbKlp2akk+sED4\nf5LHUPSiM9Wv1NRB0rQjRKlrw/4O2LIJoSbd6u8yKlekygWk08nrY9qxPjKIlcbb\noJBIwm45EKL2RFQC6Up4s7OKzGXUcF5lMP0655NoqKRU5nmYrLBXtz49gQKBgHqW\nOm86oI5frlqqbqYxmzdolpVSiCbNSDB8vLmS38TQIjoOTlf4Sl5NCXqOKkryKTiZ\nxBaMRlJSICyx1VBClY3/VLSnPMp0wdlLo2D6BGEN0j5XB3/VM2V7dJUWZLHMf1O5\nc9KVygsN0x+gn8fAT4oTuzG7v5WgIL2DZ6posUWtAoGBAOBhftyQlHijTlq4JlLk\npWhRb5RdTkBsl1EyTIaOCXyIlpEI0jvo7z0Vh4tm3UNPzTB5JsADa/juLbdmPsIt\nSx5uowu/2mAJxyBZjrk/Mu3lejWtFKO300iqffM1l0lgnhUJF+JReeAawnoHHHRf\nS9FZFFXYQJigdIxQ2lLY1KPC\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-fimvbalucr31ntbzim-4sexdhw@playboyfeluda.iam.gserviceaccount.com",
+  "client_id": "116412053410241587940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-fimvbalucr31ntbzim-4sexdhw%40playboyfeluda.iam.gserviceaccount.com"
+}
